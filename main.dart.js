@@ -69241,7 +69241,7 @@ g=n.h(o,s.d[k]).c
 f=n.h(o,s.d[k]).d
 e=A.c([new A.cu(A.U(255,145,18,26),B.k,10),new A.cu(A.U(255,145,18,26),B.k,10)],m)
 d=A.U(235,231,221,193)
-g=A.aw(A.d(g)+"/"+A.d(f),a0,a0,a0,new A.t(!0,d,a0,"tztitulo",a0,a0,55,B.H,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,e,a0,a0),B.cV,B.w)
+g=A.aw(A.d(g)+"/"+A.d(f),a0,a0,a0,new A.t(!0,d,a0,"tztitulo",a0,a0,44,B.H,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,e,a0,a0),B.cV,B.w)
 f=new Float64Array(16)
 e=new A.aP(f)
 f[15]=1
@@ -69250,7 +69250,7 @@ f=n.h(o,s.d[k]).e
 d=n.h(o,s.d[k]).f
 c=A.c([new A.cu(A.U(255,231,221,193),B.k,10),new A.cu(A.U(255,0,0,0),B.k,6)],m)
 b=A.U(235,231,221,193)
-f=A.aw(A.d(f)+"/"+A.d(d),a0,a0,a0,new A.t(!0,b,a0,"tztitulo",a0,a0,55,B.H,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,c,a0,a0),B.cV,B.w)
+f=A.aw(A.d(f)+"/"+A.d(d),a0,a0,a0,new A.t(!0,b,a0,"tztitulo",a0,a0,44,B.H,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,c,a0,a0),B.cV,B.w)
 d=new Float64Array(16)
 c=new A.aP(d)
 d[15]=1
@@ -69258,12 +69258,12 @@ c.wp(6.2)
 d=n.h(o,s.d[k]).y
 b=A.c([new A.cu(A.U(255,159,231,226),B.k,10),new A.cu(A.U(255,159,231,226),B.k,10)],m)
 a=A.U(235,231,221,193)
-d=A.aX(a0,A.aw(A.d(d),a0,a0,a0,new A.t(!0,a,a0,"tztitulo",a0,a0,55,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,b,a0,a0),B.cV,B.w),B.n,a0,a0,a0,a0,a0,a0,new A.aq(20,0,0,0),a0,a0,a0,a0)
+d=A.aX(a0,A.aw(A.d(d),a0,a0,a0,new A.t(!0,a,a0,"tztitulo",a0,a0,44,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,b,a0,a0),B.cV,B.w),B.n,a0,a0,a0,a0,a0,a0,new A.aq(20,0,0,0),a0,a0,a0,a0)
 b=new Float64Array(16)
 a=new A.aP(b)
 b[15]=1
 a.wp(6.2)
-q[k]=A.cq(A.c([A.dz(!1,a0,!0,new A.tg(B.b3,B.b2,B.ad,A.c([A.aX(a0,A.bq(A.c([new A.q0(new A.ya(i,h,a0),new A.aU(1e6),a0),new A.mu(a0,20,a0,a0),A.aX(a0,new A.tg(B.b3,B.b2,B.ad,A.c([new A.iA(e,B.J,!0,a0,new A.cP(B.z3,g,a0),a0),new A.iA(c,B.J,!0,a0,new A.cP(new A.aq(20,50,0,0),f,a0),a0),new A.iA(a,B.J,!0,a0,new A.cP(B.yV,d,a0),a0)],p),a0),B.n,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),B.p,B.u,B.r),B.n,j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),new A.cP(new A.aq(0,175,0,0),new A.tg(B.b3,B.b2,B.ad,A.c([new A.r8(A.aqe(a0,a0,new A.dO("nome_pincel.png",1,a0)),360,a0,a0,a0),new A.cP(new A.aq(150,29,0,0),A.aw(A.d(n.h(o,s.d[k]).b).toUpperCase(),a0,a0,a0,new A.t(!0,A.U(255,212,2,0),a0,"tztitulo",a0,a0,50,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,A.c([new A.cu(A.U(255,0,0,0),new A.l(3,3),0),new A.cu(A.U(150,212,2,0),B.k,16)],m),a0,a0),a0,a0),a0)],p),a0),a0)],p),a0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a9Q(s,k,l),a0,a0,a0)],p),B.p,B.u,B.r)}return A.aoW(q,3,new A.aq(10,10,10,10),!1)}else return new A.oc(a0)},
+q[k]=A.cq(A.c([A.dz(!1,a0,!0,new A.tg(B.b3,B.b2,B.n,A.c([A.aX(a0,A.bq(A.c([new A.q0(new A.ya(i,h,a0),new A.aU(1e6),a0),new A.mu(a0,20,a0,a0),A.aX(a0,new A.tg(B.b3,B.b2,B.n,A.c([new A.iA(e,B.J,!0,a0,new A.cP(new A.aq(20,0,0,0),g,a0),a0),new A.iA(c,B.J,!0,a0,new A.cP(new A.aq(20,85,0,0),f,a0),a0),new A.iA(a,B.J,!0,a0,new A.cP(new A.aq(0,170,0,0),d,a0),a0)],p),a0),B.n,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),B.p,B.u,B.r),B.n,j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),new A.cP(new A.aq(0,195,0,0),new A.tg(B.b3,B.b2,B.n,A.c([new A.r8(A.aqe(a0,a0,new A.dO("nome_pincel.png",1,a0)),360,a0,a0,a0),new A.cP(new A.aq(150,29,0,0),A.b0(new A.FK(new A.e9(-1,1),null,null,A.j4(A.aw(A.d(n.h(o,s.d[k]).b).toUpperCase(),a0,a0,a0,new A.t(!0,A.U(255,212,2,0),a0,"tztitulo",a0,a0,50,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,A.c([new A.cu(A.U(255,0,0,0),new A.l(3,3),0),new A.cu(A.U(150,212,2,0),B.k,16)],m),a0,a0),a0,a0),B.mc),null),95,185),a0)],p),a0),a0)],p),a0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a9Q(s,k,l),a0,a0,a0)],p),B.p,B.u,B.r)}return A.aoW(q,3,new A.aq(10,10,10,10),!1)}else return new A.oc(a0)},
 $S:438}
 A.a9Q.prototype={
 $0(){var s=0,r=A.T(t.P),q=this,p,o,n,m,l
@@ -69485,6 +69485,7 @@ r=A.ce(r,r.gbz().bJ(0,"userSheet"))
 p=r.ed(0,s).rq()
 return A.a7S(new A.adr(o.a,o.b,n,o.d,o.e,o.f,o.r),new A.cf(new A.cX(s,r).ga3W(),p,p.$ti.j("cf<b7.T,dE*>")),t.F6)}else return new A.oc(null)},
 $S:442}
+A.tzRetrato=function(u){u=u==null?"":A.d(u);return(u===""||/narvii\.com/.test(u)||(/discordapp\.(com|net)/.test(u)&&!/[?&]ex=/.test(u)))?"retrato_padrao.png":u};
 A.tzSalvarNome=function(m,uid,nome){var h=$.ad,app=(h==null?$.ad=$.be():h).bh(0,"[DEFAULT]");A.aQ(app,$.bg());var f=A.ca(new A.aY(app)),coll=A.ce(f,f.gbz().bJ(0,"userSheet"));m.ch=nome;return new A.cX(uid,coll).df(m.d,m.a,m.b,m.ax,m.as,m.e,m.ay,m.at,m.f,nome,m.c,uid)};
 A.tzEditarNome=function(m,uid,ctx){var k=null,j="columbiaserialmediumregular",novo=(m.ch==null||m.ch==="Nome da Ficha")?"":A.d(m.ch);
 var onCh=new A.acz(null);onCh.$1=function(v){novo=A.d(v)};
@@ -70685,8 +70686,8 @@ $S:4}
 A.ya.prototype={
 a8(){return new A.OG(B.o)}}
 A.OG.prototype={
-G(a,b){var s=null,r=t.kK,q=this.a,p=q.c,o=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(p[0],1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("1",r),s,s,s,s,340),n=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(p[1],1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("2",r),s,s,s,s,340),m=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(p[2],1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("3",r),s,s,s,s,340),l=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(p[3],1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("4",r),s,s,s,s,340)
-r=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(p[4],1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("5",r),s,s,s,s,340)
+G(a,b){var s=null,r=t.kK,q=this.a,p=q.c,o=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(A.tzRetrato(p[0]),1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("1",r),s,s,s,s,340),n=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(A.tzRetrato(p[1]),1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("2",r),s,s,s,s,340),m=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(A.tzRetrato(p[2]),1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("3",r),s,s,s,s,340),l=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(A.tzRetrato(p[3]),1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("4",r),s,s,s,s,340)
+r=A.aX(s,s,B.n,s,s,new A.bz(s,A.h0(s,B.aE,new A.dO(A.tzRetrato(p[4]),1,s),B.ao,1),s,s,s,s,B.K),s,340,new A.bU("5",r),s,s,s,s,340)
 p=A.bQ(0,0,1000,0,0)
 return A.anS([o,n,m,l,r][q.d],p)}}
 A.a_H.prototype={}
