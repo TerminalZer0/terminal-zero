@@ -69256,7 +69256,7 @@ c=new A.aP(d)
 d[15]=1
 c.wp(6.2)
 d=n.h(o,s.d[k]).y
-b=A.c([new A.cu(A.U(255,159,231,226),B.k,10),new A.cu(A.U(255,159,231,226),B.k,10)],m)
+b=A.c([new A.cu(A.U(255,20,40,170),B.k,12),new A.cu(A.U(255,20,40,170),B.k,12)],m)
 a=A.U(235,231,221,193)
 d=A.aX(a0,A.aw(A.d(d),a0,a0,a0,new A.t(!0,a,a0,"tztitulo",a0,a0,44,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,b,a0,a0),B.cV,B.w),B.n,a0,a0,a0,a0,a0,a0,new A.aq(20,0,0,0),a0,a0,a0,a0)
 b=new Float64Array(16)
